@@ -1,3 +1,5 @@
+// easy and simple just write over notebook and try to solve and code .... EASY 
+
 class Solution {
     public int maxDepth(TreeNode root) {
     if(root==null)
